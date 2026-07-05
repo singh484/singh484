@@ -14,7 +14,7 @@
 <p></p>
 <p align="center">
   <em>
-    This is ME, Priya Singh, a <b>third year</b> undergraduate from <a href="https://www.nita.ac.in/"> <b>Narula Institute of Technology & Technology</b>, Amritsar</a>. <br>
+    This is ME, Priya Singh, a <b>third year</b> undergraduate from <a href="https://www.nita.ac.in/"> <b>Narula Institute of Technology & Technology</b>, Agorpara</a>. <br>
     A curious <b>beginner developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> on an exciting <b>learning journey</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;,<br>passionate about <b>building cool things</b> and exploring <b>web development</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">while <b>growing every day</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp;.
   </em> 
   <br>
